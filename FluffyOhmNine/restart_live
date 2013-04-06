@@ -1,0 +1,4 @@
+#!/bin/bash
+/bin/quit_live
+/Applications/Ableton\ Live\ 9\ Beta.app/Contents/MacOS/Live /Users/simonfuog/DJStuff/Templates/LiveNine\ Project/LiveNine_v5.als &
+exit

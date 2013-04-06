@@ -1,0 +1,7 @@
+#!/bin/bash
+/usr/bin/osascript << EOF
+tell application "Live"
+quit
+end tell
+EOF
+exit
